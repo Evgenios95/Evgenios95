@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Evgenios95.
 - 📫 Reach out to me:
   - Email: evgeniospam@gmail.com 😀
-  - Linkedin: https://www.linkedin.com/in/evgenios-pampoukos-28293119a/
+  - Linkedin: https://www.linkedin.com/in/evgenios-pampoukos/
 - 🎓 Graduate: Master's in Software Design at IT-Universitetet i København
 - 👨🏼‍💻 Web-Stack Developer @Merkle Danmark
 - 👨‍🏫 Assistant Lecturer: Technical Interaction Design @ITU, 2022
