@@ -3,7 +3,7 @@
   - Email: evgeniospam@gmail.com 😀
   - Linkedin: https://www.linkedin.com/in/evgenios-pampoukos/
 - 🎓 Graduate: Master's in Software Design at IT-Universitetet i København
-- 👨🏼‍💻 Web-Stack Developer @Merkle Danmark
+- 👨🏼‍💻 Frontend Developer @Telia Danmark
 - 👨‍🏫 Assistant Lecturer: Technical Interaction Design @ITU, 2022
 - 🌲 Developing React-Bratus https://www.npmjs.com/package/@react-bratus/cli, which visualizes your React components hierarchy.
 
